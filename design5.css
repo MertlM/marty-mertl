@@ -1,0 +1,29 @@
+body{
+    background: url("wp5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.container{
+    width: 800px;
+    height: 200px;
+    position: sticky;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 15px;
+    
+}
+
+table{
+    width: 800px;
+    height: 200px;
+    color: white;
+    font-family: "Permanent Marker", cursive;
+    font-size: 22px;
+    text-align: center;
+}
+td {
+    vertical-align: middle;
+}

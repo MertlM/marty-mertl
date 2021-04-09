@@ -1,0 +1,47 @@
+body{
+    background: url("wp5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.container{
+    width: 800px;
+    height: 420px;
+    position: sticky;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 15px;
+}
+table{
+    width: 880px;
+    height: 550px;
+    margin-top: 65px;
+    margin-left: -40px;
+    color: white;
+    font-family: "Permanent Marker", cursive;
+}
+
+td{
+    vertical-align: top;
+    font-size: 22px;
+    text-align: center;
+}
+th{
+    font-size: 25px;
+    vertical-align: top;
+    text-align: center;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
