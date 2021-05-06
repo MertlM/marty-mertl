@@ -1,0 +1,51 @@
+body{
+    background: url("wp5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.csibe{
+    width: 800px;
+    height: 200px;
+    position: sticky;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 15px;
+    
+}
+
+table{
+    width: 800px;
+    height: 200px;
+    color: white;
+    font-family: "Permanent Marker", cursive;
+    font-size: 22px;
+    text-align: center;
+}
+td {
+    vertical-align: middle;
+}
+
+.kacsa{
+    position: sticky;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+    font-family: "Permanent Marker", cursive;
+    font-size: 22px;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
